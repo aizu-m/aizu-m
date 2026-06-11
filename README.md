@@ -8,6 +8,14 @@
 
 </div>
 
+<p align="center">
+<a href="https://digiscrypt.com/">
+<img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
+</a>
+
+<img src="https://img.shields.io/badge/👥%20CODEOPS47-Team-7c3aed?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
